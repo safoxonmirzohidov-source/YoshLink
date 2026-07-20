@@ -89,7 +89,7 @@ YoshLink AI yordamchisi:
 # 📊 MVP
 
 Loyiha MVP versiyasi Jotform platformasida ishlab chiqilgan.
-
+https://app.jotform.com/261986054266466
 ---
 
 # 📄 Taqdimot
